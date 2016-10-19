@@ -19,7 +19,8 @@ I only made it to half of the timetabled lessons this week but this was due to b
 03/10/2016
 I need to remember to write a reflective report. This week seemed to be going well however during my lunch break on Tuesday I had a major anxiety attack out of nowhere which resulted in me going to see the support team on campus and eventually agreeing that I would go home for the rest of the week.
 Even though they told me to go back to my flat and wait for my parents to come and pick me up I did end up going back to the lecture that I had that afternoon, partly because I didn’t wish for people to think I was lazy but mainly because I genuinely enjoy this course.
-This Tuesday was the day which introduced the Agile learning philosophy which meant that I missed out on half the explanation of it and did not fully understand it at the end, normally I would have asked someone to go over it again but that day I felt rude doing so since I came in late to the session.
+This Tuesday was the day which introduced the Agile learning philosophy which meant that I missed out on half the explanation of it and did not fully understand it at the end, 
+normally I would have asked someone to go over it again but that day I felt rude doing so since I came in late to the session.
 
 10/10/2016
 I need to remember to write a reflective report.

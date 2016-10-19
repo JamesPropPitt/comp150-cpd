@@ -21,11 +21,7 @@ I need to remember to write a reflective report. This week seemed to be going we
 I need to remember to write a reflective report.
 The first week where I actually attended everything that was timetabled (better late than never) which came at the cost of a long weekend of anxiety attacks springing up over and over again and only barely recovering to go back to university next week. Due to the stress of coming home I came to the conclusion that, although I would not enjoy it at first, the best long term plan would be to move into University 24/7.
 
-
-
-
-
 17/10/2016
 The monday lecture with Ed introduced complexity in computation which as the name suggests was complex and confusing, by the end I was still confused about the subject as a whole but I did not ask him to clarify because he said at this point he expected everyone to be confused.
-Tuesday was the day which we pitched our game concept ideas which we had been working on since last tuesday to the class, as one could imagine this terrified me but the presentation seemed to go well despite my concept not being green-lit.
+Tuesday was the day which we pitched our game concept ideas which we had been working on since last tuesday to the class, as one could imagine this terrified me but the presentation seemed to go well despite my concept not being green-lit.```
 

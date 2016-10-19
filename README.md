@@ -1,7 +1,7 @@
 # comp150-cpd
 
 ## Week 1
-12/09/2016
+```12/09/2016
 I need to remember to write a reflective report. 
 This week was comprised of events which I did not attend, aside from the last part of the week where the induction session took place, due to this I don’t have much to report about it.
 

@@ -1,7 +1,7 @@
 # comp150-cpd
 
 ## Week 1
-```12/09/2016
+12/09/2016
 I need to remember to write a reflective report. 
 This week was comprised of events which I did not attend, aside from the last part of the week where the induction session took place, due to this I don’t have much to report about it.
 
@@ -29,7 +29,7 @@ Due to the stress of coming home I came to the conclusion that, although I would
 
 17/10/2016
 The monday lecture with Ed introduced complexity in computation which as the name suggests was complex and confusing, by the end I was still confused about the subject as a whole but I did not ask him to clarify because he said at this point he expected everyone to be confused.
-Tuesday was the day which we pitched our game concept ideas which we had been working on since last tuesday to the class, as one could imagine this terrified me but the presentation seemed to go well despite my concept not being green-lit.```
+Tuesday was the day which we pitched our game concept ideas which we had been working on since last tuesday to the class, as one could imagine this terrified me but the presentation seemed to go well despite my concept not being green-lit
 
 # Term 2
 

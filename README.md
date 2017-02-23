@@ -58,6 +58,8 @@ Worksheet B deadline at the start of this week and I struggled a lot with this o
 Both myself and my BA group are wondering if there is much point in going to the supervised studio practises on Thursday as the room is always full, sometimes with people that aren't timetabled to be there, the noise is at a volume which prevents anyone from listening to Brian (even though he's Scottish and should be heard from the other side of the solar system). This week we decided to leave almost as soon as we arrived as there were no spaces to sit and we agreed that we would get more work done at home, due to this I have never actually been to one of these sessions and stayed till the end. 
 ### 20/02/2017
 
+In progress...
 ### 27/02/2017
 
+To Be Decided...
 

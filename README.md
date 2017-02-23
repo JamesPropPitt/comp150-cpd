@@ -31,3 +31,7 @@ Due to the stress of coming home I came to the conclusion that, although I would
 The monday lecture with Ed introduced complexity in computation which as the name suggests was complex and confusing, by the end I was still confused about the subject as a whole but I did not ask him to clarify because he said at this point he expected everyone to be confused.
 Tuesday was the day which we pitched our game concept ideas which we had been working on since last tuesday to the class, as one could imagine this terrified me but the presentation seemed to go well despite my concept not being green-lit.```
 
+# Term 2
+
+
+

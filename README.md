@@ -56,10 +56,31 @@ Worksheet B deadline at the start of this week and I struggled a lot with this o
 ### 13/02/2017
 
 Both myself and my BA group are wondering if there is much point in going to the supervised studio practises on Thursday as the room is always full, sometimes with people that aren't timetabled to be there, the noise is at a volume which prevents anyone from listening to Brian (even though he's Scottish and should be heard from the other side of the solar system). This week we decided to leave almost as soon as we arrived as there were no spaces to sit and we agreed that we would get more work done at home, due to this I have never actually been to one of these sessions and stayed till the end. 
+
 ### 20/02/2017
+This week we had the CPD meeting which happened to be on the same day I met with the BA group so we (Me and Steven) stayed in the game studios for 4 hours and then went straight over to the CPD meeting and actually managed to get a lot of work done in that time, but that's all the work I managed to do this week really, aside from random tweaks here and there.
 
-In progress...
 ### 27/02/2017
+This week I tried to stay longer than the usual 5 days at university but I fell victim to peer pressure and lost all ability to say no again and ended up going to 2 parties, getting very drunk, and going home. Aside from that, the university side of things was fine... Nothing out of the ordinary except the servers which Michael asked us to set up on the Amazon website would not work for me and my group (me and Steven, again).
+Due to the fact that the rest of our team never turns up to *anything* me and Steven joined with another group to work on this.
 
-To Be Decided...
+### 06/03/2017
+I guess we weren't supposed to 'team up' last week because this week we had to create our own server which took me and Steven a while and it still refused to work and honestly we had no idea what was happening and neither of us wanted to go and interrupt Michael as he seemed busy helping others, it's not a big issue though as we do not need the information till next year and we said we will learn as we need to learn.
+
+### 13/03/2017
+In progress.....
+
+### 20/03/2017
+
+### 27/03/2017
+
+### 03/04/2017
+
+### 10/04/2017
+
+### 17/04/2017
+
+### 24/04/2017
+
+### 01/05/2017
 

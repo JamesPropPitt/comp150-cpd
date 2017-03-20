@@ -68,7 +68,9 @@ Due to the fact that the rest of our team never turns up to *anything* me and St
 I guess we weren't supposed to 'team up' last week because this week we had to create our own server which took me and Steven a while and it still refused to work and honestly we had no idea what was happening and neither of us wanted to go and interrupt Michael as he seemed busy helping others, it's not a big issue though as we do not need the information till next year and we said we will learn as we need to learn.
 
 ### 13/03/2017
-In progress.....
+This was surprisingly the emptiest week of the term, but also the week in which I accomplished the most work.
+Specifically the COMP140 game, 3D Minesweeper. 
+This game has been my most successful creation so far as of being at university which is unfortunately quite depressing as it is utterly awful. Particularly because blueprints which should work do not work, logically if a blueprint setup says "Everytime 
 
 ### 20/03/2017
 

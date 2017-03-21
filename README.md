@@ -70,7 +70,7 @@ I guess we weren't supposed to 'team up' last week because this week we had to c
 ### 13/03/2017
 This was surprisingly the emptiest week of the term, but also the week in which I accomplished the most work.
 Specifically the COMP140 game, 3D Minesweeper. 
-This game has been my most successful creation so far as of being at university which is unfortunately quite depressing as it is utterly awful. Particularly because blueprints which should work do not work, logically if a blueprint setup says "Everytime 
+This game has been my most successful creation so far as of being at university which is unfortunately quite depressing as it is utterly awful. Particularly because blueprints which should work do not work, logically if a blueprint setup says "If this counter exceeds 20, return false. Counter starts at 1" then it should do exactly that. Nope. It always prints false, haha, fantastic.
 
 ### 20/03/2017
 
